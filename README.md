@@ -2,7 +2,7 @@
 
 ## Description
 
-This repository contains the backend service implementation for a real estate application on the Internet Computer platform. The backend service provides functionality for listing available houses and selling houses to potential buyers.
+This repository contains the backend service implementation for a real estate application on the Internet Computer platform. The backend service provides functionality for listing available houses and selling houses.
 
 ## Contents
 
@@ -18,3 +18,4 @@ This repository contains the backend service implementation for a real estate ap
 - **Tests**: Unit tests or integration tests ensure the correctness and reliability of the backend service.
 - **CI/CD Configuration**: Configuration files for setting up continuous integration/continuous deployment pipelines if applicable.
 - **Examples**: Optional examples or usage scenarios demonstrating how the backend service can be used.
+
